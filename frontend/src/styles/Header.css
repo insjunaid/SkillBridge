@@ -1,0 +1,41 @@
+.header {
+  background: linear-gradient(to right, #4f46e5, #9333ea); /* Indigo → Violet */
+  padding: 1.2rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 0.95rem;
+  position: relative;
+  z-index: 10;
+
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 1rem 1rem 0 0; /* top corners only */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  margin-left: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.nav a {
+  margin-left: 2rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #e0e0ff;
+}
