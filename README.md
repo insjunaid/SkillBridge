@@ -1,5 +1,3 @@
-# SkillBridge
-
 # 🧠 SkillBridge: AI-Powered Skill Gap Analyzer
 
 SkillBridge is a full-stack web application designed to intelligently extract skills from resumes and match them against job requirements, helping users identify gaps and upskill effectively. Built with a focus on elegant UI, scalable backend architecture, and AI-driven insights.
