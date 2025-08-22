@@ -26,19 +26,22 @@ SkillBridge is a full-stack web application designed to intelligently extract sk
 
 ---
 
+
 ## 📦 Project Structure
-skillbridge/
-├── backend/ # Spring Boot API
-│ └── src/main/java/ # Backend source code
-│
-├── frontend/ # React + Vite UI
-│ └── src/ # Frontend source code
-│
-├── mysql/ # MySQL Docker volume
-│
-├── docker-compose.yml # Multi-container orchestration
-├── .env # Environment variables (not committed)
-└── README.md # Project documentation
+
+    skillbridge/
+    ├── backend/               # Spring Boot API
+    │   └── src/main/java/     # Backend source code
+    │
+    ├── frontend/              # React + Vite UI
+    │   └── src/               # Frontend source code
+    │
+    ├── mysql/                 # MySQL Docker volume
+    │
+    ├── docker-compose.yml     # Multi-container orchestration
+    ├── .env                   # Environment variables (not committed)
+    └── README.md              # Project documentation
+
 
 
 ---
@@ -54,11 +57,28 @@ cd SkillBridge
 ```bash
 MYSQL_ROOT_PASSWORD=yourRootPassword
 MYSQL_DATABASE=skillbridge
-MYSQL_USER=junaid
+MYSQL_USER=root
 MYSQL_PASSWORD=yourUserPassword
 ```
 ### 3. Start the App with Docker
 ```bash
 docker-compose up --build
 ```
+
+## 🤝 Contributing
+SkillBridge is built with a community-first mindset. Contributions, ideas, and feedback are welcome — especially those that align with ethical design and collective benefit.
+
+## 🙏 Acknowledgments
+Gemini API for intelligent skill extraction
+
+Open-source communities for inspiration and tooling
+
+---
+
+## Build with ❤️ and 💻
+
+Made with passion, purpose, and clean code.  
+Crafted by **Junaid Shariff** 🚀
+
+
 
