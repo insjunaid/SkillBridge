@@ -3,6 +3,13 @@
 SkillBridge is a full-stack web application designed to intelligently extract skills from resumes and match them against job requirements, helping users identify gaps and upskill effectively. Built with a focus on elegant UI, scalable backend architecture, and AI-driven insights.
 
 ---
+<img width="860" height="634" alt="Image" src="https://github.com/user-attachments/assets/acd3f6b1-2cec-4537-9fec-780c7b9cfc8e" />
+
+<img width="861" height="631" alt="Image" src="https://github.com/user-attachments/assets/a9c06f31-924d-4edc-a314-3032b5a3511a" />
+
+<img width="860" height="487" alt="Image" src="https://github.com/user-attachments/assets/128aac63-5799-4d8d-9c37-d820b4e8339c" />
+
+<img width="865" height="561" alt="Image" src="https://github.com/user-attachments/assets/b43408c1-1fe0-43e3-95bc-9bb49ae4292b" />
 
 ## 🚀 Features
 
